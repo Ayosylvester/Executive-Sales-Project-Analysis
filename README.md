@@ -106,4 +106,7 @@ To strengthen the business analysis, Kings House should prioritize:
 - Evaluating acquisition channels based on customer lifetime value and profitability, not just revenue.
 
 # Dashboard 
+<img src="customer_retention_dashboard.png">
 
+# Author
+Aigbiremhon Sylvester Osazeme| student @ BoyCode Africa Data Analysis Program
