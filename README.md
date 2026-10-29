@@ -96,3 +96,11 @@ The workflow provides Kings House Executive Sales with a clearer understanding o
 
 # Tools Used
 Microsoft Excel 
+
+# Recommended Next Steps
+To strengthen the business analysis, Kings House should prioritize:
+- Converting first-time buyers into repeat customers through targeted follow-ups.
+- Developing a loyalty programme based on purchase frequency, recency, and profitability.
+- Investigating the causes of returns and cancellations.
+- Tracking customer retention by monthly acquisition cohort.
+- Evaluating acquisition channels based on customer lifetime value and profitability, not just revenue.
