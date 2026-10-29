@@ -104,3 +104,6 @@ To strengthen the business analysis, Kings House should prioritize:
 - Investigating the causes of returns and cancellations.
 - Tracking customer retention by monthly acquisition cohort.
 - Evaluating acquisition channels based on customer lifetime value and profitability, not just revenue.
+
+# Dashboard 
+
